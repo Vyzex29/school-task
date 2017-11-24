@@ -20,4 +20,9 @@ origin  https://github.com/Vyzex29/school-task.git (fetch)
 origin  https://github.com/Vyzex29/school-task.git (push)
 upstream        https://github.com/Vyzex29/school-task/tree/home-task (fetch)
 upstream        https://github.com/Vyzex29/school-task/tree/home-task (push)
+===============================================================================
+3_UZD
+
+$ git checkout -b git_branch
+Switched to a new branch 'git_branch'
 
