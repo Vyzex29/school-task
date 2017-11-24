@@ -1,0 +1,23 @@
+$ git clone https://github.com/Vyzex29/school-task.git
+Cloning into 'school-task'...
+remote: Counting objects: 37, done.
+remote: Compressing objects: 100% (35/35), done.
+remote: Total 37 (delta 9), reused 9 (delta 1), pack-reused 0
+Unpacking objects: 100% (37/37), done.
+
+user@user-PC MINGW64 /
+$ cd school-task
+
+user@user-PC MINGW64 /school-task (master)
+$ git remote add upstream https://github.com/Vyzex29/school-task/tree/home-task
+
+user@user-PC MINGW64 /school-task (master)
+$ echo "">Valerijs_Diks
+
+user@user-PC MINGW64 /school-task (master)
+$ git remote -v
+origin  https://github.com/Vyzex29/school-task.git (fetch)
+origin  https://github.com/Vyzex29/school-task.git (push)
+upstream        https://github.com/Vyzex29/school-task/tree/home-task (fetch)
+upstream        https://github.com/Vyzex29/school-task/tree/home-task (push)
+
