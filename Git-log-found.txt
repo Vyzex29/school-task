@@ -1,0 +1,7 @@
+Datums : <20-11-2017> (Mon Nov 20 21:32:04 2017 +0200)
+Branch : (origin/master, origin/HEAD, master)
+Commit description: Adding the first files
+Long checksum : 81be0226c057dec0a7675dfe1ad0c4732f053c59
+Short checksum : 81be022
+ALBERT what do you mean by kad ðis uzdevums tika pievienots?
+(origin/master, origin/HEAD, master)
