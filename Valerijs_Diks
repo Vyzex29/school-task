@@ -25,4 +25,13 @@ upstream        https://github.com/Vyzex29/school-task/tree/home-task (push)
 
 $ git checkout -b git_branch
 Switched to a new branch 'git_branch'
+==================================================
+5_uzd mb
+user@user-PC MINGW64 /school-task (git_branch)
+$ git blame script.sh
+^81be022 (Alberts Zemzale 2017-11-20 21:32:04 +0200 1) #!/bin/sh
+^81be022 (Alberts Zemzale 2017-11-20 21:32:04 +0200 2)
+^81be022 (Alberts Zemzale 2017-11-20 21:32:04 +0200 3) echo "This is a script that could"
+^81be022 (Alberts Zemzale 2017-11-20 21:32:04 +0200 4) echo "We are going to work with it to make our git dreams come true"
+^81be022 (Alberts Zemzale 2017-11-20 21:32:04 +0200 5)
 
